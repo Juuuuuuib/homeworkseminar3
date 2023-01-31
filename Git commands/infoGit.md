@@ -35,3 +35,5 @@
 * __git branch -m old_branch_name new_branch_name__ -переименовать ветку
 
 * __git checkout -b branch_name__ - создать новую ветку и перейти на неё
+
+* __git merge --abort__ - отменить слияние с конфликтом
