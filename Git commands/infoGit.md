@@ -49,3 +49,4 @@
 * Отправляем свою версию в свой [GitHub](https://github.com)
 * В [GitHub](https://github.com) нажимаем кнопку PullRequest
 
+## Команда для работы с удаленными репозиториями
