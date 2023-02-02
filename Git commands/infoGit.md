@@ -49,3 +49,4 @@
 * Отправляем свою версию в свой [GitHub](https://github.com)
 * В [GitHub](https://github.com) нажимаем кнопку PullRequest
 
+* **git clone** - эта команда позволяет склонировать внешний репозиторий на наш ПК
